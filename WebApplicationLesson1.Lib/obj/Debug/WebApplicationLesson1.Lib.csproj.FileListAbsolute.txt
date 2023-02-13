@@ -1,0 +1,13 @@
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\bin\Debug\WebApplicationLesson1.Lib.dll.config
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\bin\Debug\WebApplicationLesson1.Lib.dll
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\bin\Debug\WebApplicationLesson1.Lib.pdb
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\bin\Debug\EntityFramework.dll
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\bin\Debug\EntityFramework.xml
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\obj\Debug\WebApplicationLesson1.Lib.csproj.AssemblyReference.cache
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\obj\Debug\WebApplicationLesson1.Lib.csproj.CoreCompileInputs.cache
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\obj\Debug\WebApplicationLesson1.Lib.csproj.CopyComplete
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\obj\Debug\WebApplicationLesson1.Lib.dll
+C:\Users\БексултановД\source\repos\WebApplicationLesson1.Lib\obj\Debug\WebApplicationLesson1.Lib.pdb
